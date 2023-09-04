@@ -1,1 +1,1 @@
-# SimpleCalculator
+# Codsoft task 3
